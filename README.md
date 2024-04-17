@@ -1,2 +1,3 @@
-# shell-scripts
-Useful scripts for macOS
+# Zsh Scripts
+
+Useful scripts for macOS (Z shell)
